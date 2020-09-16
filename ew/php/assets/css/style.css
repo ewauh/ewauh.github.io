@@ -1,10 +1,10 @@
 /*
  *
- * Template Name: Andia
- * Template URI: http://azmind.com
- * Description: Andia - Responsive Agency Template
- * Author: Anli Zaimi
- * Author URI: http://azmind.com
+ * Template Name: PN
+ * Template URI: PN
+ * Description: PN
+ * Author: PN
+ * Author URI: PN
  *
  */
 #rol {
@@ -63,7 +63,7 @@
 }
 
 .slings{
-   background: url(../../../../online.starcrestmena.com/php/images/sling.jpg);	
+   background: url(../../../../online.starcrestmena.com/php/images/sling1.jpg);	
 } 
 .rollover1 a:active {
 
@@ -147,7 +147,7 @@ strong { font-weight: bold; }
     width: 280px;
     height: 63px;
     padding: 15px 0;
-    background: url(../img/logo.png) 20px center no-repeat;
+    background: url(../img/logo1.png) 20px center no-repeat;
 }
 
 .header ul.nav {
